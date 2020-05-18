@@ -1,3 +1,13 @@
+<<<<<<< Updated upstream
+=======
+var	stuff={
+	make: 'I wanna be fun'
+	doCoolStuff: function () {
+		document.getElementById('cool').className = 'cool red';
+	}
+};
+
+>>>>>>> Stashed changes
 var car={
 	make: 'Chevrolet',
 	type: 'Colorado',
